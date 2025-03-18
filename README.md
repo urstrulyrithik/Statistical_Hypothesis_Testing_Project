@@ -2,6 +2,8 @@
 
 Welcome to the NYC Yellow Taxi Data Analysis project! This repository showcases how to clean and analyze real-world taxi data to uncover insights about passenger counts, fare amounts, trip distances, and more.
 
+> **Important:** To download the dataset, log in to [data.world](https://data.world/) and search for `yellow_tripdata_2020-01.csv`.
+
 ## Overview 🚦
 
 This project takes the **January 2020 NYC Yellow Taxi Trip Records** and walks through essential steps of data cleaning, exploratory data analysis, and hypothesis testing. Specifically, we compare **fare amounts** between credit card and cash transactions to see if there's a significant difference.
